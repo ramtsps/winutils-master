@@ -17,3 +17,4 @@ HADOOP_HOME=<your local hadoop-ver folder>
 PATH=%PATH%;%HADOOP_HOME%\bin
 ```
 then you'll pass the "no native library" and "access0" error
+https://github.com/cdarlint/winutils
